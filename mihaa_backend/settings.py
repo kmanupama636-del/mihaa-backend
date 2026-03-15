@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-9i$jajt&$)m!+a!f$2v*3se*upje3h-#%5wd+0r3!kz@4lxmsa
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mihaa-backend.onrender.com','127.0.0.1','localhost']
 
 
 # Application definition
